@@ -44,19 +44,19 @@ void main()
     // int n=6;
     // int target=0;
     // int res=search(arr,n,target);
-    // printf("%d",res);
+    // printf("%d",res); output= 2
 
     //Test case 2
     // int arr[6]={4,5,6,7,0,1};
     // int n=6;
     // int target=3;
     // int res=search(arr,n,target);
-    // printf("%d",res);
+    // printf("%d",res); output=-1
 
     //Test case 3
     // int arr[1]={1};
     // int n=1;
     // int target=0;
     // int res=search(arr,n,target);
-    // printf("%d",res);
+    // printf("%d",res); output=-1
 }
